@@ -1,5 +1,6 @@
 # git_practiceの説明
-gitの練習用。  
+gitの練習用
+<br>
 
 # gifファイルを埋め込めるかどうかの確認  
 
